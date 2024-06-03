@@ -1,1 +1,1 @@
-# proyecto3Galeria
+# proyecto-3DPOO
